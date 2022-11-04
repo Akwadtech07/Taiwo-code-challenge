@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\bin\Debug\net5.0\CodeChallengeTaiwo.exe
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\bin\Debug\net5.0\CodeChallengeTaiwo.deps.json
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\bin\Debug\net5.0\CodeChallengeTaiwo.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\bin\Debug\net5.0\CodeChallengeTaiwo.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\bin\Debug\net5.0\CodeChallengeTaiwo.dll
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\bin\Debug\net5.0\ref\CodeChallengeTaiwo.dll
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\bin\Debug\net5.0\CodeChallengeTaiwo.pdb
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.dll
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\ref\CodeChallengeTaiwo.dll
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.pdb
+C:\Users\USER\OneDrive\Desktop\CodeChallengeTaiwo\obj\Debug\net5.0\CodeChallengeTaiwo.genruntimeconfig.cache
